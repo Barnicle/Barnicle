@@ -1,4 +1,4 @@
 # Who I am
 Hi, I am Eugene - frontend developer.
-- 🌱 I’m currently learning VueJS, TypeScript
+- 🌱 React, Redux, Typescript, NodeJS, MongoDB
 - 📫 How to reach me: egalimov95@gmail.com<br>
